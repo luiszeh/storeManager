@@ -4,7 +4,6 @@
 
 ## Requisitos
 
-    `Obrigatórios`
     - [1 - Crie um endpoint para o cadastro de produtos](#1---crie-um-endpoint-para-o-cadastro-de-produtos)
     - [2 - Crie um endpoint para listar os produtos](#2---crie-um-endpoint-para-listar-os-produtos)
     - [3 - Crie um endpoint para atualizar um produto](#3---crie-um-endpoint-para-atualizar-um-produto)
@@ -15,15 +14,9 @@
     - [8 - Crie um endpoint para deletar uma venda](#8---crie-um-endpoint-para-deletar-uma-venda)
     - [9 - Atualize a quantidade de produtos](#9---atualize-a-quantidade-de-produtos)
     - [10 - Valide a quantidade de produtos](#10---valide-a-quantidade-de-produtos)
-
-    `Bônus`
-    
     - [11 - Escreva testes para seus models](#11---escreva-testes-para-seus-models)
     - [12 - Escreva testes para seus services](#12---escreva-testes-para-seus-services)
     - [13 - Escreva testes para seus controllers](#13---escreva-testes-para-seus-controllers)
-- [Depois de terminar o desenvolvimento](#depois-de-terminar-o-desenvolvimento)
-- [Revisando um pull request](#revisando-um-pull-request)
-- [Avisos Finais](#avisos-finais)
 
 ---
 
