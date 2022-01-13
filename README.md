@@ -51,7 +51,7 @@ Através dessa aplicação, será possível realizar as operações básicas que
 
 Foi utilizado o banco MongoDB para a gestão de dados. Além disso, a API deve ser RESTful.
 
-⚠️ **Dicas Importantes** ⚠️:
+⚠️ **Importante** ⚠️:
 
 - Deve ser possível que a pessoa usuária, independente de cadastramento ou login, possa adicionar, ler, deletar e atualizar produtos no seu estoque. O usuário deve poder também enviar vendas para o sistema. Essas vendas devem validar se o produto em questão existe. Deve, também, ser possível ler, deletar e atualizar vendas.
 
